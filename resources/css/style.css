@@ -50,7 +50,9 @@ a {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-color: gray;
+  background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .footer {
